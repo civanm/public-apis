@@ -192,3 +192,11 @@ A collective list of JSON APIs for use in web development.
 | API | Description | OAuth |Link |
 |---|---|---|---|
 | YouTube | Add YouTube functionality to your sites and apps. | Yes / No | [Go!](https://developers.google.com/youtube/)
+
+
+### Notifications
+
+| API | Description | OAuth | Link |
+|---|---|---|---|
+|Pushbullet| Pushbullet's API enables developers to build on the Pushbullet infrastructure. Our goal is to provide a full API that enables anything to tap into the Pushbullet network. | Yes | [Go!](https://docs.pushbullet.com)
+
